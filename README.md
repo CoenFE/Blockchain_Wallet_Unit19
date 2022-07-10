@@ -7,7 +7,9 @@ You work at a startup that is building a new and disruptive platform called Fint
 ### Instructions:
 
 Import Ethereum Transaction Functions into the Fintech Finder Application
+
 Sign and Execute a Payment Transaction
+
 Inspect the Transaction on Ganache
 
 ### Results:
