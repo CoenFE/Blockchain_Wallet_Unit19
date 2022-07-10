@@ -14,7 +14,7 @@ Inspect the Transaction on Ganache
 
 ### Results:
 
-Completed the notebooks to allow for integrating the Ethereum blockchain network into an application in order to enable customers to instantly pay the fintech professionals whom they hire with cryptocurrency. Unfortunately I came across some errors with running the application through the web interface due to an issue with my library i am currently operating on as seen in the screenshots below. With more time i would be able to troubleshoot and have this running perfectly as i believe my notebooks are completed correctly but as i was not able to surpass this error i was not able to varify the final outcome.
+I have completed the notebooks to allow for integrating the Ethereum blockchain network into an application to enable customers to instantly pay the fintech professionals hired with cryptocurrency as the form of payment. Unfortunately I came across some errors with running the application through the web interface due to an issue with my library i am currently operating with as seen in the screenshots below. With more time i would be able to troubleshoot and have this running perfectly as i believe my notebooks are completed correctly but as i was not able to surpass this error i was not able to varify the final outcome.
 
 
 <img width="1145" alt="Screen Shot 2022-07-10 at 7 57 40 pm" src="https://user-images.githubusercontent.com/96010215/178140485-3c5edccd-8c26-41ec-becd-1a1643f0b467.png">
