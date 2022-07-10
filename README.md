@@ -18,5 +18,7 @@ Completed the notebooks to allow for integrating the Ethereum blockchain network
 <img width="1145" alt="Screen Shot 2022-07-10 at 7 57 40 pm" src="https://user-images.githubusercontent.com/96010215/178140485-3c5edccd-8c26-41ec-becd-1a1643f0b467.png">
 
 ### Library Error 
+Below is the error that occured when running my web application through streamlit. 
+
 <img width="1266" alt="Screen Shot 2022-07-10 at 7 58 06 pm" src="https://user-images.githubusercontent.com/96010215/178140515-fe0eac80-94fd-45e7-8410-9b548d9f48af.png">
 <img width="1234" alt="Screen Shot 2022-07-10 at 7 58 31 pm" src="https://user-images.githubusercontent.com/96010215/178140516-77e04a6e-5c25-4436-a48c-0237a077f431.png">
